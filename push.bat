@@ -1,5 +1,5 @@
 @echo off
 git add --all
-git commit -m "Initial commit"
+git commit -m "update"
 git push -u origin master
-timeout 3
+pause
